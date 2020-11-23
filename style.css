@@ -1,0 +1,17 @@
+body {
+    font-family: "Heebo", sans-serif;
+}
+
+#brand {
+    font-weight: 700;
+    margin-right: 100px;
+}
+
+#mainNavbar .nav-link {
+    margin: 10px;
+}
+
+#rightNav {
+    float: right !important;
+    color: red;
+}

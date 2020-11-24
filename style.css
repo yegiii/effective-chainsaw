@@ -4,14 +4,32 @@ body {
 
 #brand {
     font-weight: 700;
-    margin-right: 100px;
+    margin-right: 100px !important;
 }
 
 #mainNavbar .nav-link {
-    margin: 10px;
+    font-weight: 400;
 }
 
-#rightNav {
-    float: right !important;
-    color: red;
+#first-img {
+    width: 35%;
+}
+
+.center-it {
+    margin-left:  auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.rounded-left-corner {
+    border-top-left-radius: 2rem!important;
+    border-bottom-left-radius: 2rem!important;
+}
+
+#header1 {
+    font-weight: 700;
+}
+
+#header5 {
+    font-size: 14px;
 }

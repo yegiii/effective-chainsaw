@@ -1,8 +1,5 @@
 body {
     font-family: "Heebo", sans-serif;
-    padding-right: 230px;
-    padding-left: 230px;
-
 }
 
 #brand {
@@ -52,4 +49,17 @@ body {
 
 #more-info-link {
     padding-left: 150px;
+}
+
+.card {
+    border-radius: 0.5rem;
+    border: none;
+}
+
+#top-border {
+    border-top: 8px solid purple;
+}
+
+#rounded {
+    border-radius: 5rem;
 }

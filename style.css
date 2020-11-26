@@ -1,5 +1,8 @@
 body {
     font-family: "Heebo", sans-serif;
+    padding-right: 230px;
+    padding-left: 230px;
+
 }
 
 #brand {
@@ -32,4 +35,21 @@ body {
 
 #header5 {
     font-size: 14px;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.btn#lets-btn {
+    background-color: darkorange;
+    border-color: darkorange;
+}
+
+.margin-top {
+    margin-top: 100px;
+}
+
+#more-info-link {
+    padding-left: 150px;
 }
